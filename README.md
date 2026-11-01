@@ -7,7 +7,7 @@ git config --global core.editor "code"
 git config --list
 
 ==============================
-Unstaged (Red): Tracked files you've modified, but haven't run git add on yet
+Unstaged (Red): Tracked files you've modified, but haven't run git add on yet.
 
 Staged (Green): Tracked files you've modified and run git add on, making them ready to commit.
 
